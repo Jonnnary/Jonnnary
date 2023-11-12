@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jonathan 
-- 👀 I’m interested in Programming in Python
-- 🌱 I’m currently learning more about the programming language Python
-- 📫 How to reach me? Discord \n Name: Jonnary#3794
+- 👀 I’m interested in Programming in C#
+- 🌱 I’m currently learning more about the programming language C#
+- 📫 How to reach me? Discord \n Name: Jonnary
